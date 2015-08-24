@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on James Weber Blog </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://weberjm.github.io/index.xml/</link>
+      <title> on James Weber </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://weberjm.github.io/</link>
     <language>en-us</language>
     
     
-    <updated>Wed, 14 Jan 2015 14:40:23 CET</updated>
+    <updated>Wed, 14 Jan 2015 14:41:08 CET</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://weberjm.github.io/post/first/</link>
+      <pubDate>Wed, 14 Jan 2015 14:41:08 CET</pubDate>
+      
+      <guid>http://weberjm.github.io/post/first/</guid>
+      <description>
+
+&lt;p&gt;What is happening here?&lt;/p&gt;
+
+&lt;h1 id=&#34;hi:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Hi&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
